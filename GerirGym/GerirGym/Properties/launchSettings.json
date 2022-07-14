@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GerirGym": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}
